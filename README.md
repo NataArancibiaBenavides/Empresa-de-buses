@@ -25,6 +25,10 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 # Benchmark:
 
+*Pincha sobre la imagen para ver el detalle*
+
+![0001](https://user-images.githubusercontent.com/32287185/37908368-666ad59c-30de-11e8-90a7-fc06f78e9e87.jpg)
+
 
 [Benchmark] (https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0 )
 Reclamos (ver online)
