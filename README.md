@@ -54,7 +54,14 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 *Más fotos del proceso de creación de* [Affinity map](https://drive.google.com/open?id=14-qzsqbXEiJZJx_tTPeD6kKuCZQtd72q)
 
 
-User Personas (ver online)
+# User Personas
+
+**Primary persona**
+*Usuario que engloba más exigencias**
+![user persona](https://user-images.githubusercontent.com/32287185/37921156-5b407e76-30ff-11e8-93d2-30c610caf56f.jpg)
+
+
+(ver online)
 Problemáticas
 Problem Statement, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
 Content Prototype (ver online)
