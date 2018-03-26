@@ -5,8 +5,6 @@ Idea de mejora en la experiencia de compra de pasajes de buses, Se realizo pági
 
 ![529f4f57048845c88d33308cd1330422](https://user-images.githubusercontent.com/32287185/37886431-bf775072-3091-11e8-872d-b773fa8c8287.png)
 
-
-
 ## Síntesis de la Investigación
 
 El objetivo principal es analizar el sistema del medio de transporte interurbano de Chile, y así entregar soluciones. 
@@ -32,9 +30,6 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 *También puedes ver la imagen desde este enlace* [benchmark](https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0)
 
-
-
-
 ## Reclamos 
 
 ![0001 1](https://user-images.githubusercontent.com/32287185/37909976-c3ad9b8c-30e2-11e8-8820-bc17ff8e3885.jpg)
@@ -57,7 +52,8 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 ## User Personas
 
 **Primary persona**
-*Usuario que engloba más exigencias**
+
+*Usuario que engloba más exigencias*
 ![user persona](https://user-images.githubusercontent.com/32287185/37921156-5b407e76-30ff-11e8-93d2-30c610caf56f.jpg)
 
 
@@ -68,8 +64,10 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 ![user persona 2](https://user-images.githubusercontent.com/32287185/37921542-7e37c19a-3100-11e8-8639-2612b48a757f.jpg)
 
 
+## Journey map:
 
-(ver online)
+![journey map2](https://user-images.githubusercontent.com/32287185/37922432-e465fa16-3102-11e8-9f3f-90a5351b9387.jpg)
+
 Problemáticas
 Problem Statement, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
 Content Prototype (ver online)
