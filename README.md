@@ -46,10 +46,10 @@ Pusimos a personas a interactuar con la funcionalidad del sistema. Fue distinto 
 
 ## UX EMPIRE
 
-*Natalia Arancibia
-*Claudia Araos
-*Ligia Cautela
-*Jocelyne González
-*Stephanie Rojo 
-*Johanna Vásquez 
+* Natalia Arancibia
+* Claudia Araos
+* Ligia Cautela
+* Jocelyne González
+* Stephanie Rojo 
+* Johanna Vásquez 
 
