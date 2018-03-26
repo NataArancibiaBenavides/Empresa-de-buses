@@ -40,11 +40,16 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 ![0001 1](https://user-images.githubusercontent.com/32287185/37909976-c3ad9b8c-30e2-11e8-8820-bc17ff8e3885.jpg)
 *Para ver más completa la investigación de reclamos entra a este enlace [Reclamos](https://drive.google.com/open?id=1RfGzwqSe8FZzq_gYuFkYSAzf25G04KTSMsre5EFLgOc)
 
+# Entrevistas a usuarios:
+
+*Pincha sobre la imagen para ver el detalle*
+![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
+*Documento completo  acá [Entrevista usuarios expertos] (https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
 
 
 
-Observaciones (ver online)
-Entrevistas a usuarios y expertos (ver online) (ver registro online)
+
+y expertos (ver online) (ver registro online)
 Encuesta online (ver online)
 Diagramas de Afinidad(ver online)
 User Personas (ver online)
