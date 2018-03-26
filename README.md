@@ -44,14 +44,16 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 *Pincha sobre la imagen para ver el detalle*
 ![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
-*Documento completo  acá* [Entrevista usuarios expertos](https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
+*Documento completo  acá* [Entrevista usuarios y expertos](https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
+
+# Diagrama de Afinidad:
+
+*Pincha sobre la imagen para ver el detalle*
+![affinity map](https://user-images.githubusercontent.com/32287185/37919601-c0c2954a-30fa-11e8-9a17-602d89e3dba0.jpg)
+
+*Más fotos del proceso de creación de* [Affinity map](https://drive.google.com/open?id=14-qzsqbXEiJZJx_tTPeD6kKuCZQtd72q)
 
 
-
-
-y expertos (ver online) (ver registro online)
-Encuesta online (ver online)
-Diagramas de Afinidad(ver online)
 User Personas (ver online)
 Problemáticas
 Problem Statement, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
