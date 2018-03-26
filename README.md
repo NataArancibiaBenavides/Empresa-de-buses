@@ -89,7 +89,7 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 **Personas secundarias**
 ![hmw 1](https://user-images.githubusercontent.com/32287185/37928004-d91822d8-3111-11e8-8b2d-cc2bb55dc759.jpg)
 
-
+![hmw 2](https://user-images.githubusercontent.com/32287185/37928107-287829ea-3112-11e8-9c0b-38cdc9df3969.jpg)
 
 
 Problem Statement, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
