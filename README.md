@@ -44,7 +44,7 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 *Pincha sobre la imagen para ver el detalle*
 ![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
-*Documento completo  acá [Entrevista usuarios expertos] (https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
+*Documento completo  acá* [Entrevista usuarios expertos](https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
 
 
 
