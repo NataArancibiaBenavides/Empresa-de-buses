@@ -24,6 +24,8 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 ## Benchmark:
 
+Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus , para poder detectar las falencias y los puntos positivos para así entender y llegar a una mejor ideación de nuestro proyecto.
+
 *Pincha sobre la imagen para ver el detalle*
 
 ![0001](https://user-images.githubusercontent.com/32287185/37908368-666ad59c-30de-11e8-90a7-fc06f78e9e87.jpg)
@@ -43,6 +45,8 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 ## Diagrama de Afinidad:
 
+Luego de haber obtenido toda la información de las entrevistas y encuestas se extrajeron las opiniones más relevantes de los usuarios las que se agruparon por afinidad .Con está información pudimos determinar que aqueja o alegra más a las personas usuarias. 
+
 *Pincha sobre la imagen para ver el detalle*
 ![affinity map](https://user-images.githubusercontent.com/32287185/37919601-c0c2954a-30fa-11e8-9a17-602d89e3dba0.jpg)
 
@@ -50,6 +54,8 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 
 ## User Personas
+
+Para poder entender y aterrizar nuestro usuario objetivo creamos User Personas.
 
 **Primary persona**
 
@@ -65,6 +71,8 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 
 ## Journey map:
+
+El Journey custumer map facilita el entendimiento de las frustraciones y alegrias de nuestro user persona , en este Jouney nos enfocamos en nuestro Primary persona. 
 
 *Pincha sobre la imagen para ver el detalle*
 ![journey map2](https://user-images.githubusercontent.com/32287185/37922432-e465fa16-3102-11e8-9f3f-90a5351b9387.jpg)
