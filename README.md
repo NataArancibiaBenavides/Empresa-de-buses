@@ -66,7 +66,10 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 ## Journey map:
 
+*Pincha sobre la imagen para ver el detalle*
 ![journey map2](https://user-images.githubusercontent.com/32287185/37922432-e465fa16-3102-11e8-9f3f-90a5351b9387.jpg)
+
+*Más fotos del proceso de creación de* [Journey map](https://drive.google.com/open?id=181B5LhApicZR3SeefIR01xn462MxBWkV)
 
 Problemáticas
 Problem Statement, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
