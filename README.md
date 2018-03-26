@@ -30,12 +30,15 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 ![0001](https://user-images.githubusercontent.com/32287185/37908368-666ad59c-30de-11e8-90a7-fc06f78e9e87.jpg)
 
-*También Puedes ver la imagen desde este enlace* [benchmark](https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0)
+*También puedes ver la imagen desde este enlace* [benchmark](https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0)
 
 
 
 
 # Reclamos 
+
+![0001 1](https://user-images.githubusercontent.com/32287185/37909976-c3ad9b8c-30e2-11e8-8820-bc17ff8e3885.jpg)
+*Para ver más completa la investigación de reclamos entra a este enlace [Reclamos](https://drive.google.com/open?id=1RfGzwqSe8FZzq_gYuFkYSAzf25G04KTSMsre5EFLgOc)
 
 
 
