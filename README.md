@@ -22,6 +22,7 @@ Sitio (responsive), que tendrá venta de pasajes (una vez comprados serán confi
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio. 
 
 ## Proceso
+# Investigación:
 
 # Benchmark:
 
@@ -29,9 +30,16 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 ![0001](https://user-images.githubusercontent.com/32287185/37908368-666ad59c-30de-11e8-90a7-fc06f78e9e87.jpg)
 
+*También Puedes ver la imagen desde este enlace* [benchmark](https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0)
 
-[Benchmark] (https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0 )
-Reclamos (ver online)
+
+
+
+# Reclamos 
+
+
+
+
 Observaciones (ver online)
 Entrevistas a usuarios y expertos (ver online) (ver registro online)
 Encuesta online (ver online)
