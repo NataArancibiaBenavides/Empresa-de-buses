@@ -79,7 +79,15 @@ El Journey custumer map facilita el entendimiento de las frustraciones y alegria
 
 *Más fotos del proceso de creación de* [Journey map](https://drive.google.com/open?id=181B5LhApicZR3SeefIR01xn462MxBWkV)
 
-Problemáticas
+## Problemáticas:
+
+En esta etapa entederemos las problematicas más a fondo de nuestro User persona
+
+![hmw](https://user-images.githubusercontent.com/32287185/37927359-3c9caf92-3110-11e8-9cb5-844d314dcdd8.jpg)
+
+
+
+
 Problem Statement, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
 Content Prototype (ver online)
 Sketch Individual (ver online)
