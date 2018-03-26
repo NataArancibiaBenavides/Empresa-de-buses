@@ -2,6 +2,10 @@
 idea de mejora en la experiencia de compra de pasajes de buses, Se realizo página web y totem (trabajo en equipo  6 integrantes Ux Designer) 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+![529f4f57048845c88d33308cd1330422](https://user-images.githubusercontent.com/32287185/37886431-bf775072-3091-11e8-872d-b773fa8c8287.png)
+
+
+
 ## Síntesis de la Investigación
 
 El objetivo principal es analizar el sistema del medio de transporte interurbano de Chile, y así entregar soluciones. 
