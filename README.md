@@ -21,10 +21,10 @@ Lo único que buscamos y nuestra meta es facilitarles la vida a los usuarios, qu
 Sitio (responsive), que tendrá venta de pasajes (una vez comprados serán confirmados vía email o SMS), comparación de precios, la posibilidad de cambio o anulación de los pasajes (telefónicamente o de manera online). 
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio. 
 
-## Proceso
-# Investigación:
+# Proceso
+## Investigación:
 
-# Benchmark:
+## Benchmark:
 
 *Pincha sobre la imagen para ver el detalle*
 
@@ -35,18 +35,18 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 
 
 
-# Reclamos 
+## Reclamos 
 
 ![0001 1](https://user-images.githubusercontent.com/32287185/37909976-c3ad9b8c-30e2-11e8-8820-bc17ff8e3885.jpg)
 *Para ver más completa la investigación de reclamos entra a este enlace [Reclamos](https://drive.google.com/open?id=1RfGzwqSe8FZzq_gYuFkYSAzf25G04KTSMsre5EFLgOc)
 
-# Entrevistas a usuarios:
+## Entrevistas a usuarios:
 
 *Pincha sobre la imagen para ver el detalle*
 ![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
 *Documento completo  acá* [Entrevista usuarios y expertos](https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
 
-# Diagrama de Afinidad:
+## Diagrama de Afinidad:
 
 *Pincha sobre la imagen para ver el detalle*
 ![affinity map](https://user-images.githubusercontent.com/32287185/37919601-c0c2954a-30fa-11e8-9a17-602d89e3dba0.jpg)
@@ -54,11 +54,16 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 *Más fotos del proceso de creación de* [Affinity map](https://drive.google.com/open?id=14-qzsqbXEiJZJx_tTPeD6kKuCZQtd72q)
 
 
-# User Personas
+## User Personas
 
 **Primary persona**
 *Usuario que engloba más exigencias**
 ![user persona](https://user-images.githubusercontent.com/32287185/37921156-5b407e76-30ff-11e8-93d2-30c610caf56f.jpg)
+
+
+**Personas secundarias**
+![user persona 1](https://user-images.githubusercontent.com/32287185/37921339-eb8465ba-30ff-11e8-97de-ae60433e8980.jpg)
+
 
 
 (ver online)
