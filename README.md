@@ -83,7 +83,11 @@ El Journey custumer map facilita el entendimiento de las frustraciones y alegria
 
 En esta etapa entedimos las problematicas más a fondo de nuestros Users personas
 
+**Primary persona**
 ![hmw](https://user-images.githubusercontent.com/32287185/37927359-3c9caf92-3110-11e8-9cb5-844d314dcdd8.jpg)
+
+**Personas secundarias**
+![hmw 1](https://user-images.githubusercontent.com/32287185/37928004-d91822d8-3111-11e8-8b2d-cc2bb55dc759.jpg)
 
 
 
