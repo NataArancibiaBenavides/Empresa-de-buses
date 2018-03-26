@@ -1,5 +1,5 @@
 # Empresa-de-buses
-idea de mejora en la experiencia de compra de pasajes de buses, Se realizo página web y totem (trabajo en equipo  6 integrantes Ux Designer) 
+Idea de mejora en la experiencia de compra de pasajes de buses, Se realizo página web y totem (trabajo en equipo  6 integrantes Ux Designer) 
 ---------------------------------------------------------------------------------------------------------------------------------
 # Proyecto 
 
@@ -61,8 +61,11 @@ Los usuarios se podrán registrar para tener una serie de beneficios y la posibi
 ![user persona](https://user-images.githubusercontent.com/32287185/37921156-5b407e76-30ff-11e8-93d2-30c610caf56f.jpg)
 
 
-**Personas secundarias**
+**Personas secundarias:**
+
 ![user persona 1](https://user-images.githubusercontent.com/32287185/37921339-eb8465ba-30ff-11e8-97de-ae60433e8980.jpg)
+
+![user persona 2](https://user-images.githubusercontent.com/32287185/37921542-7e37c19a-3100-11e8-8639-2612b48a757f.jpg)
 
 
 
