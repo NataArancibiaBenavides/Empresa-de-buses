@@ -93,7 +93,7 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 
 
 ## Problem Statement:
-![prototipo 1](https://user-images.githubusercontent.com/32287185/37979367-d20f99f0-31be-11e8-94d0-1be647d43cb6.png)
+
 
 , HMW, What if? (ver problem statement) (ver HMW) (ver What if)
 Content Prototype (ver online)
