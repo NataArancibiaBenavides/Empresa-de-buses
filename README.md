@@ -1,7 +1,7 @@
 # Empresa-de-buses
 Idea de mejora en la experiencia de compra de pasajes de buses, Se realizo página web y totem (trabajo en equipo  6 integrantes Ux Designer) 
 ---------------------------------------------------------------------------------------------------------------------------------
-# Proyecto 
+## Proyecto 
 
 ![529f4f57048845c88d33308cd1330422](https://user-images.githubusercontent.com/32287185/37886431-bf775072-3091-11e8-872d-b773fa8c8287.png)
 
@@ -19,7 +19,7 @@ Lo único que buscamos y nuestra meta es facilitarles la vida a los usuarios, qu
 Sitio (responsive), que tendrá venta de pasajes (una vez comprados serán confirmados vía email o SMS), comparación de precios, la posibilidad de cambio o anulación de los pasajes (telefónicamente o de manera online). 
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio. 
 
-# Proceso
+## Proceso
 ## Investigación:
 
 ## Benchmark:
