@@ -152,6 +152,11 @@ Acá más detalle de las fotos [Testeo de sketch](https://drive.google.com/open?
 
 Link para ver completo el [Prototipo](https://marvelapp.com/137f6316/screen/37792163)
 
+
+### Testeo Prototipo:
+
+Acá [Guía de testeo] (https://drive.google.com/open?id=1VVHk4_Br9-W8wA8dGvxZBcVKPriHFyYi99sz8L1Be5c)
+
 ## Aprendizaje y cambios realizados en el Wireframes
 
 Utilizamos wireframes para mostrar las rutas de navegación entre las páginas. 
