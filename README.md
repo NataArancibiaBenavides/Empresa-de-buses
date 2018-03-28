@@ -112,7 +112,12 @@ Realizamos el content prototype para estructurar la página es decir plasmar y e
 
 Acá esta el documento [Content Prototype](https://drive.google.com/open?id=1kSfiB1fkpZjmglH3SSmQQHcB0O4uj2l-z7FbUcB1lmE)
 
-Sketch Individual (ver online)
+### Sketch Individual: 
+
+![ideas validadas del sketch](https://user-images.githubusercontent.com/32287185/38040311-99751b34-3285-11e8-9d2f-ee80bf7a5bce.jpg)
+
+Acá[Fotos proceso de Sketch](https://drive.google.com/open?id=1tMAGwsdIErJnpm9KwE9GRjEccUpTvQ7z)
+(ver online)
 Sketch Final (ver online)
 Test Sketch (ver online)
 Wireframe (Marvelapp) (ver online)
