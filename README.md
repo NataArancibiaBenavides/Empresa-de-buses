@@ -116,9 +116,12 @@ Acá esta el documento [Content Prototype](https://drive.google.com/open?id=1kSf
 
 ![image](https://user-images.githubusercontent.com/32287185/38044400-05b23fc0-3290-11e8-9466-8f1ce4bcb871.jpg)
 
-Acá[Fotos proceso de Sketch](https://drive.google.com/open?id=1tMAGwsdIErJnpm9KwE9GRjEccUpTvQ7z)
-(ver online)
-Sketch Final (ver online)
+Acá [Fotos proceso de Sketch](https://drive.google.com/open?id=1tMAGwsdIErJnpm9KwE9GRjEccUpTvQ7z)
+
+
+### Sketch Final :
+
+
 Test Sketch (ver online)
 Wireframe (Marvelapp) (ver online)
 
