@@ -81,7 +81,13 @@ El Journey custumer map facilita el entendimiento de las frustraciones y alegria
 
 ## Problemáticas:
 
-En esta etapa entedimos las problematicas más a fondo de nuestros Users personas
+En esta etapa entedimos las problematicas más a fondo de nuestros Users personas.
+
+### Problem Statement:
+
+![problem statement](https://user-images.githubusercontent.com/32287185/38035145-1e0f8a48-327a-11e8-8b14-7eb70cb04e69.jpg)
+
+
 
 **Primary persona**
 ![hmw](https://user-images.githubusercontent.com/32287185/37927359-3c9caf92-3110-11e8-9cb5-844d314dcdd8.jpg)
@@ -92,7 +98,6 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 ![hmw 2](https://user-images.githubusercontent.com/32287185/37928107-287829ea-3112-11e8-9c0b-38cdc9df3969.jpg)
 
 
-## Problem Statement:
 
 
 , HMW, What if? (ver problem statement) (ver HMW) (ver What if)
