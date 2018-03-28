@@ -90,7 +90,7 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 ![problem statement 1](https://user-images.githubusercontent.com/32287185/38035874-bb88c39c-327b-11e8-97b8-b18418323de9.jpg)
 ![problem statement 2](https://user-images.githubusercontent.com/32287185/38036180-88754218-327c-11e8-994b-212d3dc4aac5.jpg)
 
-### HMW ¿Como podriamos?
+### HMW (¿Como podriamos?)
 **Primary persona**
 ![hmw](https://user-images.githubusercontent.com/32287185/37927359-3c9caf92-3110-11e8-9cb5-844d314dcdd8.jpg)
 
@@ -99,9 +99,11 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 
 ![hmw 2](https://user-images.githubusercontent.com/32287185/37928107-287829ea-3112-11e8-9c0b-38cdc9df3969.jpg)
 
+### What if? (y si)
+**Primary persona**
 
-
-, HMW, What if? (ver problem statement) (ver HMW) (ver What if)
+ 
+ 
 Content Prototype (ver online)
 Sketch Individual (ver online)
 Sketch Final (ver online)
