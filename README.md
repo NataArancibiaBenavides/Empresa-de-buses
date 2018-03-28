@@ -45,7 +45,8 @@ Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus 
 
 ### Observaciones:
 
-![observaciones](https://user-images.githubusercontent.com/32287185/38048229-26ee5196-329b-11e8-915e-62d17be28152.jpg)
+![observaciones-convertimage](https://user-images.githubusercontent.com/32287185/38049209-fc0aa0bc-329d-11e8-8f80-8a8e48d8c48d.jpg)
+
 
 Más fotos [Observaciones](https://drive.google.com/open?id=1E-QQnNIk0OuA6I4cn6Au8fc75AH3U9Ja)
 
