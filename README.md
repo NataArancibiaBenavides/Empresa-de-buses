@@ -114,6 +114,7 @@ Acá esta el documento [Content Prototype](https://drive.google.com/open?id=1kSf
 
 ### Realización de Sketch individual y validación ideas por cada integrante del equipo:
 
+![observando sketch](https://user-images.githubusercontent.com/32287185/38044231-89e85f50-328f-11e8-99a7-cf11616f0e44.jpg)
 
 Acá[Fotos proceso de Sketch](https://drive.google.com/open?id=1tMAGwsdIErJnpm9KwE9GRjEccUpTvQ7z)
 (ver online)
