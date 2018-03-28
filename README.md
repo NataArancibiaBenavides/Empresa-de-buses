@@ -123,8 +123,13 @@ Acá [Fotos proceso de Sketch](https://drive.google.com/open?id=1tMAGwsdIErJnpm9
 
 ![sketch final 1](https://user-images.githubusercontent.com/32287185/38045931-a80c74da-3294-11e8-870e-39d91c211344.jpg)
 
-Test Sketch (ver online)
-Wireframe (Marvelapp) (ver online)
+
+
+
+
+### Test Sketch: 
+
+### Prototipo Marvel:
 
 
 ## Aprendizaje y cambios realizados en el Wireframes
