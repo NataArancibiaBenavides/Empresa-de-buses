@@ -129,6 +129,9 @@ Acá ver con más detalle las fotos [sketch](https://drive.google.com/open?id=1-
 
 ### Test Sketch: 
 
+![testeo sketch](https://user-images.githubusercontent.com/32287185/38047502-1db555f4-3299-11e8-8fea-57e4ef306c44.jpg)
+
+
 ### Prototipo Marvel:
 
 
