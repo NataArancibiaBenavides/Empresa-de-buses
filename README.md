@@ -108,7 +108,9 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 
 ### Content Prototype:
 
-[Content Prototype](https://drive.google.com/open?id=1kSfiB1fkpZjmglH3SSmQQHcB0O4uj2l-z7FbUcB1lmE)
+Realizamos el content prototype para estructurar la página es decir plasmar y entender donde ira el contenido y el orden que este llevara.
+
+Acá esta el documento [Content Prototype](https://drive.google.com/open?id=1kSfiB1fkpZjmglH3SSmQQHcB0O4uj2l-z7FbUcB1lmE)
 
 Sketch Individual (ver online)
 Sketch Final (ver online)
