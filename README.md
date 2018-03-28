@@ -84,6 +84,9 @@ El Journey custumer map facilita el entendimiento de las frustraciones y alegria
 *Pincha sobre la imagen para ver el detalle*
 ![journey map2](https://user-images.githubusercontent.com/32287185/37922432-e465fa16-3102-11e8-9f3f-90a5351b9387.jpg)
 
+![journey](https://user-images.githubusercontent.com/32287185/38051661-4fc2f126-32a5-11e8-95bc-d900287df2a0.jpg)
+
+
 *Más fotos del proceso de creación de* [Journey map](https://drive.google.com/open?id=181B5LhApicZR3SeefIR01xn462MxBWkV)
 
 ## Problemáticas:
