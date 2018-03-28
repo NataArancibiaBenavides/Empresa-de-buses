@@ -148,8 +148,9 @@ una de ellas fue la información de el registro realizando cambios en el texto d
 Acá más detalle de las fotos [Testeo de sketch](https://drive.google.com/open?id=1s7q80xoO6LQ3iSo91UF5OgoA7Gy5RSmb)
 ### Prototipo Marvel:
 
+![prototipo 2](https://user-images.githubusercontent.com/32287185/38050380-2ebfaa04-32a1-11e8-89b1-c127410921b7.jpg)
 
-Link [Prototipo](https://marvelapp.com/137f6316/screen/37792163)
+Link para ver completo el [Prototipo](https://marvelapp.com/137f6316/screen/37792163)
 
 ## Aprendizaje y cambios realizados en el Wireframes
 
