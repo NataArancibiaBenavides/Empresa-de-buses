@@ -103,6 +103,9 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 **Primary persona**
 ![what if](https://user-images.githubusercontent.com/32287185/38038572-a3afb112-3281-11e8-8df6-46df16a594d7.jpg)
  
+![what if 1](https://user-images.githubusercontent.com/32287185/38038761-1b943fea-3282-11e8-8430-594d8d0070e1.jpg)
+
+
 Content Prototype (ver online)
 Sketch Individual (ver online)
 Sketch Final (ver online)
