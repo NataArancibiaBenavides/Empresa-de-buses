@@ -12,7 +12,7 @@ Idea de mejora en la experiencia de compra de pasajes de buses, Se realizo pági
 ![totem primera vista](https://user-images.githubusercontent.com/32287185/38052199-d1a94388-32a6-11e8-995b-29442e407bd8.png)
 
 
-## Síntesis de la Investigación
+### Síntesis de la Investigación
 
 El objetivo principal es analizar el sistema del medio de transporte interurbano de Chile, y así entregar soluciones. 
 Nos enfocaremos en las soluciones a nivel tecnológico. Para esto se comenzó realizando entrevistas en terreno a los usuarios, entrevistas online, estudio y benchmark, existe documentación adjunta como fotos, grabaciones, etc., y así ver y saber qué es lo que las personas quieren o necesitan del servicio. 
@@ -21,15 +21,15 @@ Nuestra página tendrá como MVP la compra y venta de pasajes, comparación de p
 
 Lo único que buscamos y nuestra meta es facilitarles la vida a los usuarios, que les dé más ganas de conocer nuestro país por medio de un sistema seguro y confiable para llegar a su destino sin ningún mayor inconveniente.  
 
-## Nuestro Proyecto
+### Nuestro Proyecto
 
 Sitio (responsive), que tendrá venta de pasajes (una vez comprados serán confirmados vía email o SMS), comparación de precios, la posibilidad de cambio o anulación de los pasajes (telefónicamente o de manera online). 
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio. 
 
-## Proceso
-## Investigación:
+### Proceso
+### Investigación:
 
-## Benchmark:
+### Benchmark:
 
 Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus , para poder detectar las falencias y los puntos positivos para así entender y llegar a una mejor ideación de nuestro proyecto.
 
@@ -39,12 +39,12 @@ Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus 
 
 *También puedes ver la imagen desde este enlace* [benchmark](https://drive.google.com/open?id=1k5wyEj2-KqoApHQkHbntiLWPUwhLmtdh7xcQ6Cw54v0)
 
-## Reclamos 
+### Reclamos 
 
 ![0001 1](https://user-images.githubusercontent.com/32287185/37909976-c3ad9b8c-30e2-11e8-8820-bc17ff8e3885.jpg)
 *Para ver más completa la investigación de reclamos entra a este enlace [Reclamos](https://drive.google.com/open?id=1RfGzwqSe8FZzq_gYuFkYSAzf25G04KTSMsre5EFLgOc)
 
-## Entrevistas a usuarios:
+### Entrevistas a usuarios:
 
 *Pincha sobre la imagen para ver el detalle*
 ![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
@@ -57,7 +57,7 @@ Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus 
 
 Más fotos [Observaciones](https://drive.google.com/open?id=1E-QQnNIk0OuA6I4cn6Au8fc75AH3U9Ja)
 
-## Diagrama de Afinidad:
+### Diagrama de Afinidad:
 
 Luego de haber obtenido toda la información de las entrevistas y encuestas se extrajeron las opiniones más relevantes de los usuarios las que se agruparon por afinidad .Con está información pudimos determinar que aqueja o alegra más a las personas usuarias. 
 
@@ -67,7 +67,7 @@ Luego de haber obtenido toda la información de las entrevistas y encuestas se e
 *Más fotos del proceso de creación de* [Affinity map](https://drive.google.com/open?id=14-qzsqbXEiJZJx_tTPeD6kKuCZQtd72q)
 
 
-## User Personas
+### User Personas
 
 Para poder entender y aterrizar nuestro usuario objetivo creamos User Personas.
 
@@ -84,7 +84,7 @@ Para poder entender y aterrizar nuestro usuario objetivo creamos User Personas.
 ![user persona 2](https://user-images.githubusercontent.com/32287185/37921542-7e37c19a-3100-11e8-8639-2612b48a757f.jpg)
 
 
-## Journey map:
+### Journey map:
 
 El Journey custumer map facilita el entendimiento de las frustraciones y alegrias de nuestro user persona , en este Jouney nos enfocamos en nuestro Primary persona. 
 
@@ -100,7 +100,7 @@ El Journey custumer map facilita el entendimiento de las frustraciones y alegria
 
 *Más fotos del proceso de creación de* [Journey map](https://drive.google.com/open?id=181B5LhApicZR3SeefIR01xn462MxBWkV)
 
-## Problemáticas:
+### Problemáticas:
 
 En esta etapa entedimos las problematicas más a fondo de nuestros Users personas.
 
