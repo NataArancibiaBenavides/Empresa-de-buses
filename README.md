@@ -81,9 +81,11 @@ Para poder entender y aterrizar nuestro usuario objetivo creamos User Personas.
 
 El Journey custumer map facilita el entendimiento de las frustraciones y alegrias de nuestro user persona , en este Jouney nos enfocamos en nuestro Primary persona. 
 
-*Pincha sobre la imagen para ver el detalle*
+**Foto proceso de creación de Jouney custumer map**
 
 ![journey](https://user-images.githubusercontent.com/32287185/38051661-4fc2f126-32a5-11e8-95bc-d900287df2a0.jpg)
+
+*Pincha sobre la imagen para ver el detalle*
 
 ![journey map2](https://user-images.githubusercontent.com/32287185/37922432-e465fa16-3102-11e8-9f3f-90a5351b9387.jpg)
 
