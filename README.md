@@ -86,12 +86,12 @@ En esta etapa entedimos las problematicas más a fondo de nuestros Users persona
 ### Problem Statement:
 
 ![problem statement](https://user-images.githubusercontent.com/32287185/38035145-1e0f8a48-327a-11e8-8b14-7eb70cb04e69.jpg)
-
+![problem statement 1](https://user-images.githubusercontent.com/32287185/38035874-bb88c39c-327b-11e8-97b8-b18418323de9.jpg)
 
 
 **Primary persona**
 ![hmw](https://user-images.githubusercontent.com/32287185/37927359-3c9caf92-3110-11e8-9cb5-844d314dcdd8.jpg)
-![problem statement 1](https://user-images.githubusercontent.com/32287185/38035874-bb88c39c-327b-11e8-97b8-b18418323de9.jpg)
+
 
 ### HMW ¿Como podriamos?
 **Personas secundarias**
