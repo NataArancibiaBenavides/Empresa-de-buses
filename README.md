@@ -43,6 +43,8 @@ Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus 
 ![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
 *Documento completo  acá* [Entrevista usuarios y expertos](https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
 
+### Observaciones :
+
 ## Diagrama de Afinidad:
 
 Luego de haber obtenido toda la información de las entrevistas y encuestas se extrajeron las opiniones más relevantes de los usuarios las que se agruparon por afinidad .Con está información pudimos determinar que aqueja o alegra más a las personas usuarias. 
