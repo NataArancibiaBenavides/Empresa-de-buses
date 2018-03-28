@@ -3,7 +3,14 @@ Idea de mejora en la experiencia de compra de pasajes de buses, Se realizo pági
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Proyecto 
 
+
+**Home web**
+
 ![529f4f57048845c88d33308cd1330422](https://user-images.githubusercontent.com/32287185/37886431-bf775072-3091-11e8-872d-b773fa8c8287.png)
+
+**Primera vista Totem**
+![totem primera vista](https://user-images.githubusercontent.com/32287185/38052199-d1a94388-32a6-11e8-995b-29442e407bd8.png)
+
 
 ## Síntesis de la Investigación
 
