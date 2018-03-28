@@ -156,6 +156,7 @@ Link para ver completo el [Prototipo](https://marvelapp.com/137f6316/screen/3779
 ### Testeo Prototipo:
 
 Acá [Guía de testeo](https://drive.google.com/open?id=1VVHk4_Br9-W8wA8dGvxZBcVKPriHFyYi99sz8L1Be5c)
+Resultados [Testeo](https://drive.google.com/open?id=1CDlgy2MYUIth_j6LzwxIch2ySMBltd4SuK-bCleqImg)
 
 ## Aprendizaje y cambios realizados en el Wireframes
 
