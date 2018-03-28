@@ -155,12 +155,14 @@ Link para ver completo el [Prototipo](https://marvelapp.com/137f6316/screen/3779
 
 ### Testeo Prototipo:
 
+Acá [Guía de testeo](https://drive.google.com/open?id=1VVHk4_Br9-W8wA8dGvxZBcVKPriHFyYi99sz8L1Be5c)
+
 ![testeo web](https://user-images.githubusercontent.com/32287185/38050804-992b6eea-32a2-11e8-8c1f-f6dbe3d864f5.jpg)
 
 Totem
 ![img_20180131_162304](https://user-images.githubusercontent.com/32287185/38050820-addd9296-32a2-11e8-94ea-df0191daec74.jpg)
 
-Acá [Guía de testeo](https://drive.google.com/open?id=1VVHk4_Br9-W8wA8dGvxZBcVKPriHFyYi99sz8L1Be5c)
+
 Resultados [Testeo](https://drive.google.com/open?id=1CDlgy2MYUIth_j6LzwxIch2ySMBltd4SuK-bCleqImg)
 
 ## Aprendizaje y cambios realizados en el Wireframes
