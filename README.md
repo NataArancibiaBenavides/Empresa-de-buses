@@ -129,7 +129,14 @@ Acá ver con más detalle las fotos [sketch](https://drive.google.com/open?id=1-
 
 ### Test Sketch: 
 
+Una vez realizado el sketch se realizo testeo con usuarios , se les indico que observaran los dibujos de la web y fueran comentando en voz alta todo lo que sentian se les dio la indicación que simularan una compra de pasajes .
+
 ![testeo sketch](https://user-images.githubusercontent.com/32287185/38047502-1db555f4-3299-11e8-8fea-57e4ef306c44.jpg)
+
+
+Una vez realizado el testeo obtuvimos información valiosa  entendiendo que cosas estaban bien y que cosas había que cambiar.
+una de ellas fue la información de el registro realizando cambios en el texto de este.
+
 
 Acá más detalle de las fotos [Testeo de sketch](https://drive.google.com/open?id=1s7q80xoO6LQ3iSo91UF5OgoA7Gy5RSmb)
 ### Prototipo Marvel:
