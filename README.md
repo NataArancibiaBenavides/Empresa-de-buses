@@ -56,7 +56,7 @@ Nos dirigimos a terminales de buses en Santiago de Chile, para entrevistar a pas
 
 ### Observaciones:
 
-No didicamos también a observar el comportamiente de la gente en los terminales de buses.
+Nos didicamos también a observar el comportamiente de la gente en los terminales de buses.
 
 ![observaciones-convertimage](https://user-images.githubusercontent.com/32287185/38049209-fc0aa0bc-329d-11e8-8f80-8a8e48d8c48d.jpg)
 
