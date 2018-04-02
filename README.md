@@ -48,11 +48,15 @@ Realizamos comparativas con páginas web enfocadas a la venta de pasajes de bus 
 
 ### Entrevistas a usuarios:
 
+Nos dirigimos a terminales de buses en Santiago de Chile, para entrevistar a pasajeros y expertos, nos dividimos para obtener  más respuestas.Entreviste a expertos obtuviendo valiosa información, por lo general la gente es abierta y acceden a dar entrevistas.
+
 *Pincha sobre la imagen para ver el detalle*
 ![0001 2](https://user-images.githubusercontent.com/32287185/37912792-a5f90566-30e9-11e8-9989-fb44ed1fbfe2.jpg)
 *Documento completo  acá* [Entrevista usuarios y expertos](https://drive.google.com/open?id=1mZZUnmegWL7OFWeViwUEk9kbqUidKRfdQ_3w2TQFL1k)
 
 ### Observaciones:
+
+No didicamos también a observar el comportamiente de la gente en los terminal de buses.
 
 ![observaciones-convertimage](https://user-images.githubusercontent.com/32287185/38049209-fc0aa0bc-329d-11e8-8f80-8a8e48d8c48d.jpg)
 
@@ -181,10 +185,15 @@ Totem
 
 Resultados [Testeo](https://drive.google.com/open?id=1CDlgy2MYUIth_j6LzwxIch2ySMBltd4SuK-bCleqImg)
 
-## Aprendizaje y cambios realizados en el Wireframes
+## Aprendizaje y cambios realizados en el prototipo:
 
-Utilizamos wireframes para mostrar las rutas de navegación entre las páginas. 
-Pusimos a personas a interactuar con la funcionalidad del sistema. Fue distinto para los usuarios, ya que no se muestran los detalles interactivos. Después de varios testeos, tuvimos que ordenar los elementos de la interfaz, para una mejor usabilidad.
+Utilizamos prototipos para mostrar las rutas de navegación entre las páginas. 
+Pusimos a personas a interactuar con la funcionalidad del sistema. Fue distinto para los usuarios, ya que no se muestran los detalles interactivos. Después de varios testeos, tuvimos que ordenar los elementos de la interfaz, para una mejor usabilidad.
+
+
+
+
+
 
 ## UX EMPIRE
 
